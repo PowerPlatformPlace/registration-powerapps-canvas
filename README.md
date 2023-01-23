@@ -1,4 +1,5 @@
 # registration-powerapps-canvas
+PLEASE- DONT USE FOR ANY EVENT THAT REQUIRES GUESTS TO PAY FOR THE PRIZES!
 Canvas PowerApp for Event registration and Prize Drawings.
 The app is using two Dataverse tables: AAD-Users & EventRegistration
 AAD-Users: has three custom columns: Name, Email, Department
