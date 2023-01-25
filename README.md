@@ -1,5 +1,5 @@
 # registration-powerapps-canvas
-PLEASE- DONT USE FOR ANY EVENT THAT REQUIRES GUESTS TO PAY FOR THE PRIZES!
+PLEASE- DONT USE THIS APP FOR ANY EVENT THAT REQUIRES GUESTS TO PAY FOR THE PRIZE DRAWINGS!
 Canvas PowerApp for Event registration and Prize Drawings.
 The app is using two Dataverse tables: AAD-Users & EventRegistration
 AAD-Users: has four custom columns: Name, Email, Department, and EventRegistration(Yes/No)
@@ -10,4 +10,4 @@ PrizeDrawings.zip is an-unmanaged solution that includes the app and its require
 
 ## APP FUNCTIONALITY ##
 The App can register guests to multiple events, and you can draw prizes per event and for a selected prize type
-You can also specify the number of prize recipients as you determine the number of drawings
+You can also specify the number of prize's recipients as you determine the number of drawings
